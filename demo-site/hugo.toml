@@ -1,0 +1,12 @@
+baseURL = 'https://www.samuelcarlisle.org/hugo'
+languageCode = 'en-us'
+title = 'Hugo Demo Site'
+theme = "hugo-PaperMod" 
+[taxonomies]
+    tag = "tag"
+    category = "categories"
+[params]
+  subtitle = 'Just a demo site'
+  [params.contact]
+    email = 'info@e.org'
+    phone = '+1 212-555-1234'
